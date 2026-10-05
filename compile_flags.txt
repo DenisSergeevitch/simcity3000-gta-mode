@@ -1,0 +1,4 @@
+--target=i686-w64-mingw32
+-std=gnu11
+-isystem
+/opt/homebrew/Cellar/mingw-w64/14.0.0/toolchain-i686/lib/gcc/i686-w64-mingw32/15.2.0/../../../../i686-w64-mingw32/include

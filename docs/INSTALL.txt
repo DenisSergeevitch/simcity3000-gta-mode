@@ -1,0 +1,22 @@
+GTA Mode for SimCity 3000 Unlimited
+https://github.com/DenisSergeevitch/simcity3000-gta-mode
+
+INSTALL
+1. Copy gta_mode.dll into the game's Apps folder, the one that contains SC3U.exe.
+2. Install cnc-ddraw (https://github.com/FunkyFr3sh/cnc-ddraw/releases) into the same folder and set
+   renderer=opengl in its ddraw.ini. The HUD, markers and outlines are drawn through it.
+3. Start the game, load any city and press G.
+
+CONTROLS
+  G                 start / quit GTA mode
+  Tab, Enter        pick a citizen, take control
+  W A S D           walk / drive (Shift runs)
+  Space             punch (handbrake in a car)
+  Enter             steal the nearest car / get out
+
+UNINSTALL
+Delete gta_mode.dll. The mod never changes saves or game files; it writes only gta_mode.log in Apps.
+
+You need your own copy of the game. This mod contains none of the game's files.
+SimCity 3000 Unlimited is (c) Electronic Arts / Maxis. Unofficial fan project, not affiliated with EA, Maxis,
+Rockstar Games or Take-Two.

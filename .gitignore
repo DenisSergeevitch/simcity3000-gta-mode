@@ -1,0 +1,9 @@
+build/
+dist/
+*.bmp
+*.raw
+.DS_Store
+# The trailer's edit sources: footage, music, sprites and fonts taken from the game itself
+video/
+# working notes
+TODO-*.md
