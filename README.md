@@ -1,13 +1,13 @@
 # GTA Mode for SimCity 3000 Unlimited
 
-[![Trailer: GTA Mode in SimCity 3000](docs/social-preview.png)](docs/trailer.mp4)
+https://github.com/user-attachments/assets/833a06fe-a2ad-47b5-bc2a-3f1c62f7502c
 
 Walk around any SimCity 3000 city as one of its citizens. Punch people, steal cars, drive the city's real
 streets and get busted by the police. GTA Mode is a native plugin for the original 1999 game (SimCity 3000
 Unlimited): no remaster, no patched EXE, and none of the game's files are changed.
 
 **[Download](https://github.com/DenisSergeevitch/simcity3000-gta-mode/releases/latest)** ·
-**[Trailer with sound](docs/trailer.mp4)**
+**[Trailer in 1080p](https://github.com/DenisSergeevitch/simcity3000-gta-mode/releases/download/v1.0.0/gta-mode-trailer-1080p.mp4)**
 
 ## Features
 
