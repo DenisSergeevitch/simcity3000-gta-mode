@@ -19,7 +19,7 @@ for a in "$@"; do
 done
 mkdir -p build
 "$CC" -std=gnu11 -O2 -Wall -Wno-unused-function -Wno-format-truncation -shared \
-  -o build/gta_mode.dll src/*.c src/*.S -Wl,--kill-at -static-libgcc -lgdi32 -luser32 -lkernel32
+  -o build/gta_mode.dll src/*.c src/*.S -s -Wl,--kill-at -static-libgcc -lgdi32 -luser32 -lkernel32
 echo "built build/gta_mode.dll (GTA mode $VERSION)"
 
 apps="${SC3U_APPS:-}"
